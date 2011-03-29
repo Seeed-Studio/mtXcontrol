@@ -1,3 +1,4 @@
+//lg
 static class PixelColorScheme {
   public static int[] R = {};
   public static int[] G = {};
